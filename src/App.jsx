@@ -7,6 +7,9 @@ import './Navbar.css'
 import Image from './Image'
 import Header from './Header'
 import Paragraph from './Paragraph'
+import Typewriter from './Typewriter'
+import './Typewriter.css'
+
 
 
 
