@@ -4,7 +4,7 @@ import './Header.css';
 function Header(){
     return(
         <div class="text">
-        <h1>Hello There!</h1> {'\n'}<h1 className="beige">I am Ashmika Verma</h1>
+        <h1>Hello There!</h1> {'\n'}
         
            
         </div>
