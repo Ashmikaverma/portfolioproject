@@ -33,7 +33,7 @@ function App() {
      <TopNavbar/> 
     <Image/>
     <Header/>
-    
+    <h1 className="typewriter"><Typewriter text="I am Ashmika Verma" delay={100}/></h1>
     <Paragraph/>
    
     </>
